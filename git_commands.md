@@ -21,6 +21,8 @@ git commit -m "message what we have write" -------  used to track the staged fil
 git add .   ---------- Used To add all u r files at once we use 
    
 git restore --staged <fileName> -------- used to unstage one or more files from u r files 
+
+origin means github [where the repo created]
   
              git staged the files after doing git add command
 
